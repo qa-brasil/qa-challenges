@@ -32,7 +32,7 @@ If you want to contribute, feel free! But send only open-source challange, pleas
 
 ## Inspiration
 
-Inspired on [CollabCodeTech](https://github.com/CollabCodeTech)'s [backend-challenges] (https://github.com/CollabCodeTech/backend-challenges) and [Felipe Fialho](https://github.com/felipefialho)'s [frontend-challenges](https://github.com/felipefialho/frontend-challenges). Great job!
+Inspired on [backend-challenges](https://github.com/CollabCodeTech/backend-challenges) and [frontend-challenges](https://github.com/felipefialho/frontend-challenges). Great job!
 
 ## License
 
