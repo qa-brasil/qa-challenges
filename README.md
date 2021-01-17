@@ -43,7 +43,7 @@ Please take a look at the [contributing guide](.github/contributing.md)
 
 ## Respect earns Respect 👏
 
-Please respect our [Code of Conduct](.github/code-of-conduct.md), in short:
+Please respect our [Code of Conduct](.github/code_of_conduct.md), in short:
 
 - Using welcoming and inclusive language
 - Being respectful of differing viewpoints and experiences
