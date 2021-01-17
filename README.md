@@ -36,4 +36,4 @@ Inspired on [backend-challenges](https://github.com/CollabCodeTech/backend-chall
 
 ## License
 
-[CC0 1.0 Universal](/LICENSE) &copy; QA Brasil 
+[CC0 1.0 Universal](./LICENSE) &copy; QA Brasil 
