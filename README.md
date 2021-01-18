@@ -19,7 +19,7 @@ Do you want to test your skills for automation test, or practice writing test sc
 | [Concrete](https://www.concrete.com.br/)              | Scenario, Api, Mobile, Automation, Gherkin, Gauge                          | [Code →](https://github.com/concretesolutions/qa-recruiting-brazil)           |
 | [Coveo](https://www.coveo.com/)                       | Web, Automation                                                            | [Code →](https://github.com/coveo/QA-challenge)                               |
 | [Dasa](https://dasaexp.gupy.io/)                     | Scenario, Api, Mobile, Automation, Ruby, Cucumber, Capybara                | [Code →](https://github.com/dasaexp/DesafioQA)                                |
-| [Editora-globo](https://medium.com/editora)          | Scenario, Api, Mobile, Automation, Selenium, Gherkin, Java                 | [Code →](https://github.com/Infoglobo/desafio-qa)                             |
+| [Editora-globo](https://medium.com/editora-globo)     | Scenario, Api, Mobile, Automation, Selenium, Gherkin, Java                 | [Code →](https://github.com/Infoglobo/desafio-qa)                             |
 | [Eka](http://www.go-eka.com/)                         | Scenario, Web, Automation, Javascript                                      | [Code →](https://github.com/go-eka/qa-challenge-1)                            |
 | [Fleury](https://www.fleury.com.br/)                  | Scenario, Mobile, Automation, Ruby, Appium, Cucumber                       | [Code →](https://github.com/grupofleury/qa_automation_mobile)                 |
 | [Holmusk](https://www.holmusk.com/)                   | Mobile, Automation                                                         | [Code →](https://github.com/Holmusk/QA-Automation-Challenge)                  |
@@ -53,4 +53,4 @@ Please respect our [Code of Conduct](.github/code_of_conduct.md), in short:
 
 ## License
 
-[CC0 1.0 Universal](/LICENSE) &copy; QA Brasil
+[CC0 1.0 Universal](./LICENSE) &copy; QA Brasil
