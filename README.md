@@ -11,7 +11,6 @@ Would you like to check your skills for automation test, or practice writing tes
 
 | Company                                               | Stack                                                                      | Challenge                                                                     |
 |-------------------------------------------------------|----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| [Busbud](https://busbud.com/)                         | Web, Automation, Javascript                                                | [Code →](https://github.com/busbud/coding-challenge-qa-a)                     |
 | [Brickblock](https://www.brickblock.io/)              | Scenario, Acceptance Criteria, Web, Automation, Cypress                    | [Code →](https://github.com/brickblock-io/coding-challenge-qa)                |
 | [Claro](https://www.claro.com.br/)                    | Scenario, Web, Mobile, Automation, Gherkin, Cucumber, Appium, BrowserStack | [Code →](https://github.com/mobile-clarobrasil/claro-brasil-challenge-qa)     |
 | [Codacy](https://www.codacy.com/)                     | Web, Automation, Javascript                                                | [Code →](https://github.com/codacy/qa-frontend-challenge)                     |
